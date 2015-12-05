@@ -1,0 +1,9 @@
+When I initialize a directory it creates a .git file, which
+includes metadata used to track the repository.
+
+The staging area is different from the working directory
+because it allows me to perform git commands before
+deciding whether or not to make a commit. The staging
+area is also different from a repository because I can
+decide which files to include or exclude from a commit.
+
