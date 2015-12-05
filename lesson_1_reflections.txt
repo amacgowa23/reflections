@@ -1,0 +1,34 @@
+Viewing a diff between two versions of the file
+helped me very quickly identify which lines
+were different. I can see how for very large files
+this could be a powerful tool.
+
+Easy access to the entire history of a file can
+make me a more efficient programmer because I 
+can quickly check code changes from one version
+to the next to determine where possible bugs
+could have been introduced. 
+
+The pros of manually choosing when to make a create a commit
+are that I don't have too many or too few commits, and each
+commit can be associated with one logical change. The cons of
+manually saving, compared to having versions automatically 
+saved, as in Google Docs, are that if I forget to commit, the
+diff between commits can become too large.
+
+I think some version control systems allow multiple files to be
+saved in one commit, because very often multiple files are connected,
+whereas Google Docs and some other version control systems
+usually involve documents that are not directly connected with each
+other. 
+
+I can use git log to get a view of all the commits and a description
+of the changes made. I can then use git diff between two IDs to see
+details of the changes, in terms of lines added and deleted.
+
+Using version control makes me more confident to make changes that might
+break something because I know I can always revert to a previous version
+and start over, even doing a diff to see what specific code changes triggered the bug.
+
+I want to use Git for my Udacity projects, especially for the Intro
+to Machine Learning course.
