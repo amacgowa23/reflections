@@ -7,3 +7,20 @@ deciding whether or not to make a commit. The staging
 area is also different from a repository because I can
 decide which files to include or exclude from a commit.
 
+I can use the staging area to make sure I have one logical
+change per commit by making changes to files in the working
+directory, adding them to the staging area, and then 
+committing the files in the staging area. 
+
+Branches can help to keep my history organized by allowing
+me to preserve a working version but experiment with
+significant changes on other branches. I know that the 
+master branch is good and can dedicate an entire branch
+to a specific line of thinking. 
+
+Diagrams help me visualize which commits belong to which
+branches, how features are separated by branch, at which
+point changes are introduced.
+
+The result of merging two branches together is that the 
+changes of both branches are integrated together.
