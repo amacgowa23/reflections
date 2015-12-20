@@ -1,0 +1,3 @@
+I would use a remote repository rather than keeping all my work local when
+performing changes from multiple computers, or when working on a joint
+project with other people.
