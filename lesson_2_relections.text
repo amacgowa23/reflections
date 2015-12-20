@@ -24,3 +24,7 @@ point changes are introduced.
 
 The result of merging two branches together is that the 
 changes of both branches are integrated together.
+
+The pros of Git's automatic merging is that I can avoid
+tedious commands to merge branches. The cons are that
+I don't have full control over which changes are implemented.
