@@ -1,3 +1,7 @@
-I would use a remote repository rather than keeping all my work local when
-performing changes from multiple computers, or when working on a joint
-project with other people.
+I would use a remote repository rather than keeping all my work local when performing changes from multiple computers, or when working on a joint project with other people.
+
+I would want to always pull changes manually from GitHub rather
+than having Git automatically stay up-to-date with my remote
+repository because I want to be able to pick and choose changes
+that are made to my public GitHub repository to be incorporated 
+into my local repository.
