@@ -5,3 +5,7 @@ than having Git automatically stay up-to-date with my remote
 repository because I want to be able to pick and choose changes
 that are made to my public GitHub repository to be incorporated 
 into my local repository.
+
+A fork is basically a clone on GitHub. It allows me to create a clone from an existing branch. The branch could be mine or someone else's. A 
+clone is an identical repository created on my local computer in Git. A 
+branch is a label for one or more commits. 
