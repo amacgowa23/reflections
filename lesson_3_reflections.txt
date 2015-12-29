@@ -12,3 +12,5 @@ branch is a label for one or more commits.
 
 The benefit of having a copy of the last known state of the remote stored locally is that if changes are made on GitHub I can always 
 revert to the last known good state by pushing the local copy.
+
+It would be more difficult to collaborate without Git and GitHub, because I would have to send people copies of the files that I changed highlighting the changes and asking for feedback. Comments wouldn't be visible to everyone.
