@@ -14,3 +14,5 @@ The benefit of having a copy of the last known state of the remote stored locall
 revert to the last known good state by pushing the local copy.
 
 It would be more difficult to collaborate without Git and GitHub, because I would have to send people copies of the files that I changed highlighting the changes and asking for feedback. Comments wouldn't be visible to everyone.
+
+The benefit of creating a separate branch is that I can more easily track changes and minimize risk to my master branch on Git and GitHub. However, the downside is that there are more steps involved to merge the changes in. 
